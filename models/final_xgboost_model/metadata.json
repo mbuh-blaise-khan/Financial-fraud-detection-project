@@ -1,0 +1,10 @@
+{
+    "model_type": "XGBoost",
+    "dataset": "JAR 2020",
+    "optimal_threshold": 0.7757161855697632,
+    "test_precision": 0.04225352112676056,
+    "test_recall": 0.037037037037037035,
+    "test_f1": 0.039473684210526314,
+    "test_roc_auc": 0.778841305094202,
+    "test_pr_auc": 0.010504295156985087
+}
